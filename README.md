@@ -48,8 +48,8 @@ Este espaço foi criado para:
 ### 🛒 1. Dashboard de Vendas
 - Métricas: Total de Vendas, Ticket Médio, Top 5 Produtos, etc.  
 - Filtros: Período, Região, Categoria  
-🔗 [Ver no Power BI]([https://app.powerbi.com/view?r=COLE_AQUI_SEU_LINK](https://app.powerbi.com/view?r=eyJrIjoiNWI4NzcxZDgtNDRiOS00NGJmLTk5N2ItMWFhN2Q4OTM1MjYxIiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9))
-📁 [`vendas.pbix`](vendas.pbix)
+🔗 [Ver no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWI4NzcxZDgtNDRiOS00NGJmLTk5N2ItMWFhN2Q4OTM1MjYxIiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9)
+📁 [Clique aqui para baixar o arquivo .pbix](https://github.com/RyanCarlosNascimento/projetos-power-bi/raw/main/Nome%20Projeto%201%20-%20E-Commerce%20(ClickBox).pbix)
 
 ---
 
