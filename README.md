@@ -28,13 +28,10 @@ Este espaço foi criado para:
 
 ## 📂 O que você vai encontrar aqui
 
-Cada projeto contém:
-
-📌 Um arquivo `.pbix` com o dashboard pronto  
-📄 Um `README.md` explicando o cenário analisado  
-🎯 Métricas de negócios como **ticket médio, total de vendas, produtos mais vendidos, entre outros**  
-🧭 Filtros por período, região, categoria, cliente, etc.  
-📷 Link para o dashboard interativo
+🗂️ Projetos divididos por tema  
+🔗 Links para visualização pública no Power BI Service  
+📊 KPIs como **Ticket Médio, Total de Vendas, Produtos mais Vendidos**, etc.  
+🧭 Dashboards com filtros por período, região, categoria e muito mais
 
 ---
 
@@ -45,6 +42,14 @@ Cada projeto contém:
 - Limpeza e modelagem de dados  
 - Criação de KPIs relevantes para negócios  
 - Análises focadas em **tomada de decisão**
+
+---
+
+### 🛒 1. Dashboard de Vendas
+- Métricas: Total de Vendas, Ticket Médio, Top 5 Produtos, etc.  
+- Filtros: Período, Região, Categoria  
+🔗 [Ver no Power BI]([https://app.powerbi.com/view?r=COLE_AQUI_SEU_LINK](https://app.powerbi.com/view?r=eyJrIjoiNWI4NzcxZDgtNDRiOS00NGJmLTk5N2ItMWFhN2Q4OTM1MjYxIiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9))
+📁 [`vendas.pbix`](vendas.pbix)
 
 ---
 
