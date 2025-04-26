@@ -51,7 +51,4 @@ Este espaço foi criado para:
 🔗 [Ver no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWI4NzcxZDgtNDRiOS00NGJmLTk5N2ItMWFhN2Q4OTM1MjYxIiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9)
 📁 [Clique aqui para baixar o arquivo .pbix](https://github.com/RyanCarlosNascimento/projetos-power-bi/raw/main/Projeto%201%20-%20E-Commerce%20(ClickBox).pbix)
 
-
 ---
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ryan-carlos-385895354)
